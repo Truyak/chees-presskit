@@ -1,0 +1,62 @@
+================================================================================
+                           CHEES - DOSSIER DE PRESSE
+================================================================================
+
+INFORMATIONS SUR LE JEU
+--------------------------------------------------------------------------------
+Titre:          Chees
+Développeur:    Remin Interactive (Kerem & Hüseyin)
+Genre:          Stratégie / Puzzle / Échecs
+Plateformes:    PC (Steam)
+Sortie:         Bientôt disponible
+Langues:        Anglais, Turc, Français, Russe, Chinois simplifié
+
+À PROPOS DU JEU
+--------------------------------------------------------------------------------
+Chees est une version unique des échecs classiques où les règles changent à 
+chaque partie ! Chaque match commence avec des "mutations" aléatoires qui 
+transforment la façon dont les pièces se déplacent - un Pion peut agir comme 
+une Tour, un Cavalier peut se déplacer comme un Pion, ou un Fou peut acquérir 
+le pouvoir d'une Dame.
+
+Cette mécanique innovante crée des possibilités stratégiques infinies, 
+transformant chaque partie en un nouveau puzzle qui défie même les joueurs 
+d'échecs expérimentés.
+
+CARACTÉRISTIQUES PRINCIPALES
+--------------------------------------------------------------------------------
+• SYSTÈME DE MUTATION: Changements de comportement des pièces aléatoires
+• PIXEL ART CLASSIQUE: Magnifiques graphismes pixel art faits à la main
+• ATMOSPHÈRE CHALEUREUSE: Cadre de taverne relaxant avec des visuels accueillants
+• MULTIJOUEUR EN LIGNE: Affrontez des joueurs du monde entier avec matchmaking MMR
+• JEU LOCAL: Jouez contre des amis ou défiez l'IA
+• MULTILINGUE: Localisation complète en 5 langues
+
+CAPTURES D'ÉCRAN
+--------------------------------------------------------------------------------
+Incluses dans ce dossier de presse:
+
+  • MainFR.png     - Écran du menu principal
+  • GFr.png        - Début de partie / Vue de l'échiquier
+  • MFr.png        - Gameplay en cours de partie
+  • MutFR.png      - Écran de sélection des mutations
+  • FR.png         - Écran de victoire/Échec et mat
+
+LOGO & IMAGE DE MARQUE
+--------------------------------------------------------------------------------
+  • Logo (512 x 512 px).png   - Logo carré
+  • Logo (184 x 184 px).png   - Petit logo carré
+  • Logo (1280 x 720 px).png  - Logo large
+  • chees_banner_1500x500.png - Bannière réseaux sociaux
+
+CONTACT
+--------------------------------------------------------------------------------
+Développeur:    Remin Interactive (Kerem & Hüseyin)
+Email:          hkdevhelp@gmail.com
+Steam:          https://store.steampowered.com/app/4179120/Chees
+Instagram:      https://www.instagram.com/remininteractive/
+Twitter/X:      https://x.com/ReminInteract
+
+================================================================================
+                       Merci pour votre intérêt !
+================================================================================

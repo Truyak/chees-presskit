@@ -1,0 +1,60 @@
+================================================================================
+                              CHEES - PRESS KIT
+================================================================================
+
+GAME INFORMATION
+--------------------------------------------------------------------------------
+Title:          Chees
+Developer:      Remin Interactive (Kerem & Hüseyin)
+Genre:          Strategy / Puzzle / Chess
+Platforms:      PC (Steam)
+Release:        Coming Soon
+Languages:      English, Turkish, French, Russian, Simplified Chinese
+
+ABOUT THE GAME
+--------------------------------------------------------------------------------
+Chees is a unique twist on classic chess where the rules change with every 
+match! Each game begins with random "mutations" that transform how pieces move 
+- a Pawn might act like a Rook, a Knight could move like a Pawn, or a Bishop 
+might gain the power of a Queen.
+
+This innovative mechanic creates endless strategic possibilities, turning each 
+match into a fresh puzzle that challenges even experienced chess players.
+
+KEY FEATURES
+--------------------------------------------------------------------------------
+• MUTATION SYSTEM: Every match features randomized piece behavior changes
+• CLASSIC PIXEL ART: Beautiful hand-crafted pixel art graphics
+• COZY ATMOSPHERE: Relaxing tavern setting with warm, inviting visuals
+• ONLINE MULTIPLAYER: Compete against players worldwide with MMR-based matchmaking
+• LOCAL PLAY: Play against friends or challenge the AI
+• MULTIPLE LANGUAGES: Full localization in 5 languages
+
+SCREENSHOTS
+--------------------------------------------------------------------------------
+Included in this press kit:
+
+  • MainENG.png     - Main menu screen
+  • GEn.png         - Game start / Chess board view
+  • MEn.png         - Mid-game gameplay
+  • MutEN.png       - Mutation selection screen
+  • EN.png          - Victory/Checkmate screen
+
+LOGO & BRANDING
+--------------------------------------------------------------------------------
+  • Logo (512 x 512 px).png   - Square logo
+  • Logo (184 x 184 px).png   - Small square logo
+  • Logo (1280 x 720 px).png  - Wide logo
+  • chees_banner_1500x500.png - Social media banner
+
+CONTACT
+--------------------------------------------------------------------------------
+Developer:      Remin Interactive (Kerem & Hüseyin)
+Email:          hkdevhelp@gmail.com
+Steam:          https://store.steampowered.com/app/4179120/Chees
+Instagram:      https://www.instagram.com/remininteractive/
+Twitter/X:      https://x.com/ReminInteract
+
+================================================================================
+                         Thank you for your interest!
+================================================================================

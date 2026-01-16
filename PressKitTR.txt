@@ -1,0 +1,59 @@
+================================================================================
+                              CHEES - BASIN KİTİ
+================================================================================
+
+OYUN BİLGİLERİ
+--------------------------------------------------------------------------------
+Başlık:         Chees
+Geliştirici:    Remin Interactive (Kerem & Hüseyin)
+Tür:            Strateji / Bulmaca / Satranç
+Platform:       PC (Steam)
+Çıkış:          Yakında
+Diller:         İngilizce, Türkçe, Fransızca, Rusça, Basitleştirilmiş Çince
+
+OYUN HAKKINDA
+--------------------------------------------------------------------------------
+Chees, klasik satrancın kurallarının her maçta değiştiği benzersiz bir oyundur!
+Her oyun, taşların hareket şeklini dönüştüren rastgele "mutasyonlar" ile başlar
+- bir Piyon, Kale gibi davranabilir, bir At, Piyon gibi hareket edebilir veya 
+bir Fil, Vezir'in gücünü kazanabilir.
+
+Bu yenilikçi mekanik sonsuz stratejik olasılıklar yaratır ve her maçı deneyimli 
+satranç oyuncularını bile zorlayan taze bir bulmacaya dönüştürür.
+
+TEMEL ÖZELLİKLER
+--------------------------------------------------------------------------------
+• MUTASYON SİSTEMİ: Her maçta rastgele taş davranış değişiklikleri
+• KLASİK PİKSEL SANAT: Güzel, el yapımı piksel sanat grafikleri
+• SICAK ATMOSFER: Sıcak ve davetkar görsellerle rahatlatıcı taverna ortamı
+• ONLİNE ÇOKLU OYUNCU: MMR tabanlı eşleştirme ile dünya çapında rakiplerle yarışın
+• YEREL OYUN: Arkadaşlarınızla oynayın veya yapay zekaya meydan okuyun
+• ÇOKLU DİL DESTEĞİ: 5 dilde tam yerelleştirme
+
+EKRAN GÖRÜNTÜLERİ
+--------------------------------------------------------------------------------
+Bu basın kitinde yer alan görseller:
+
+  • MainTR.png     - Ana menü ekranı
+  • GTr.png        - Oyun başlangıcı / Satranç tahtası görünümü
+  • MTr.png        - Oyun ortası görüntüsü
+  • MutTR.png      - Mutasyon seçim ekranı
+
+LOGO & MARKA
+--------------------------------------------------------------------------------
+  • Logo (512 x 512 px).png   - Kare logo
+  • Logo (184 x 184 px).png   - Küçük kare logo
+  • Logo (1280 x 720 px).png  - Geniş logo
+  • chees_banner_1500x500.png - Sosyal medya banner'ı
+
+İLETİŞİM
+--------------------------------------------------------------------------------
+Geliştirici:    Remin Interactive (Kerem & Hüseyin)
+E-posta:        hkdevhelp@gmail.com
+Steam:          https://store.steampowered.com/app/4179120/Chees
+Instagram:      https://www.instagram.com/remininteractive/
+Twitter/X:      https://x.com/ReminInteract
+
+================================================================================
+                         İlginiz için teşekkür ederiz!
+================================================================================
